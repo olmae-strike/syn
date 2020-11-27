@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="syn_abstract.cs" />
+    <Compile Remove="syn_anonyMethod.cs" />
+    <Compile Remove="syn_auto_implemented_property.cs" />
+    <Compile Remove="syn_Ienumerable.cs" />
+    <Compile Remove="syn_Ienumerable2.cs" />
+    <Compile Remove="syn_indexer.cs" />
+    <Compile Remove="syn_indexer2.cs" />
+    <Compile Remove="syn_interface.cs" />
+    <Compile Remove="syn_lambda.cs" />
+    <Compile Remove="syn_lambda2.cs" />
+    <Compile Remove="syn_lambda3.cs" />
+    <Compile Remove="syn_lambda4-ExpTree.cs" />
+    <Compile Remove="syn_overloading_operator.cs" />
+    <Compile Remove="syn_ref_out.cs" />
+    <Compile Remove="syn_typecasting.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Program.cs" />
+    <None Include="syn_abstract.cs" />
+    <None Include="syn_anonyMethod.cs" />
+    <None Include="syn_auto_implemented_property.cs" />
+    <None Include="syn_Ienumerable.cs" />
+    <None Include="syn_Ienumerable2.cs" />
+    <None Include="syn_indexer.cs" />
+    <None Include="syn_indexer2.cs" />
+    <None Include="syn_interface.cs" />
+    <None Include="syn_lambda.cs" />
+    <None Include="syn_lambda2.cs" />
+    <None Include="syn_lambda3.cs" />
+    <None Include="syn_lambda4-ExpTree.cs" />
+    <None Include="syn_overloading_operator.cs" />
+    <None Include="syn_ref_out.cs" />
+    <None Include="syn_typecasting.cs" />
+  </ItemGroup>
+
+</Project>

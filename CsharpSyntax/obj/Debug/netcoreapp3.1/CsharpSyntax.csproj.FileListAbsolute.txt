@@ -1,0 +1,13 @@
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\bin\Debug\netcoreapp3.1\CsharpSyntax.exe
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\bin\Debug\netcoreapp3.1\CsharpSyntax.deps.json
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\bin\Debug\netcoreapp3.1\CsharpSyntax.runtimeconfig.json
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\bin\Debug\netcoreapp3.1\CsharpSyntax.runtimeconfig.dev.json
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\bin\Debug\netcoreapp3.1\CsharpSyntax.dll
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\bin\Debug\netcoreapp3.1\CsharpSyntax.pdb
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.csprojAssemblyReference.cache
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.AssemblyInfoInputs.cache
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.AssemblyInfo.cs
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.csproj.CoreCompileInputs.cache
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.dll
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.pdb
+C:\Users\zinnotech\source\repos\CsharpSyntax\CsharpSyntax\obj\Debug\netcoreapp3.1\CsharpSyntax.genruntimeconfig.cache
