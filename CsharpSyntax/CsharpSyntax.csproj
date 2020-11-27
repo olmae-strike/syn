@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="closure_lambda_ex.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="syn_abstract.cs" />
     <Compile Remove="syn_anonyMethod.cs" />
@@ -25,6 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="closure_lambda_ex.cs" />
     <None Include="Program.cs" />
     <None Include="syn_abstract.cs" />
     <None Include="syn_anonyMethod.cs" />
