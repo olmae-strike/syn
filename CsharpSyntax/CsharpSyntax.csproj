@@ -7,41 +7,53 @@
 
   <ItemGroup>
     <Compile Remove="closure_lambda_ex.cs" />
+    <Compile Remove="ex_arrayConvert.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="syn_abstract.cs" />
     <Compile Remove="syn_anonyMethod.cs" />
     <Compile Remove="syn_auto_implemented_property.cs" />
+    <Compile Remove="syn_closure1.cs" />
     <Compile Remove="syn_Ienumerable.cs" />
     <Compile Remove="syn_Ienumerable2.cs" />
+    <Compile Remove="syn_Ienumerable3.cs" />
     <Compile Remove="syn_indexer.cs" />
     <Compile Remove="syn_indexer2.cs" />
     <Compile Remove="syn_interface.cs" />
+    <Compile Remove="syn_interface_ex.cs" />
     <Compile Remove="syn_lambda.cs" />
     <Compile Remove="syn_lambda2.cs" />
     <Compile Remove="syn_lambda3.cs" />
     <Compile Remove="syn_lambda4-ExpTree.cs" />
     <Compile Remove="syn_overloading_operator.cs" />
     <Compile Remove="syn_ref_out.cs" />
+    <Compile Remove="syn_treeGeneric.cs" />
+    <Compile Remove="syn_tuple.cs" />
     <Compile Remove="syn_typecasting.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="closure_lambda_ex.cs" />
+    <None Include="ex_arrayConvert.cs" />
     <None Include="Program.cs" />
     <None Include="syn_abstract.cs" />
     <None Include="syn_anonyMethod.cs" />
     <None Include="syn_auto_implemented_property.cs" />
+    <None Include="syn_closure1.cs" />
     <None Include="syn_Ienumerable.cs" />
     <None Include="syn_Ienumerable2.cs" />
+    <None Include="syn_Ienumerable3.cs" />
     <None Include="syn_indexer.cs" />
     <None Include="syn_indexer2.cs" />
     <None Include="syn_interface.cs" />
+    <None Include="syn_interface_ex.cs" />
     <None Include="syn_lambda.cs" />
     <None Include="syn_lambda2.cs" />
     <None Include="syn_lambda3.cs" />
     <None Include="syn_lambda4-ExpTree.cs" />
     <None Include="syn_overloading_operator.cs" />
     <None Include="syn_ref_out.cs" />
+    <None Include="syn_treeGeneric.cs" />
+    <None Include="syn_tuple.cs" />
     <None Include="syn_typecasting.cs" />
   </ItemGroup>
 
