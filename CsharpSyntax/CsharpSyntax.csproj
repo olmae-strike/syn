@@ -3,6 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>company</Company>
+    <Product>testSyn</Product>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,10 +16,12 @@
     <Compile Remove="syn_anonyMethod.cs" />
     <Compile Remove="syn_auto_implemented_property.cs" />
     <Compile Remove="syn_closure1.cs" />
+    <Compile Remove="syn_generic1.cs" />
+    <Compile Remove="syn_generic2.cs" />
+    <Compile Remove="syn_generic3.cs" />
     <Compile Remove="syn_Ienumerable.cs" />
     <Compile Remove="syn_Ienumerable2.cs" />
     <Compile Remove="syn_Ienumerable3.cs" />
-    <Compile Remove="syn_indexer.cs" />
     <Compile Remove="syn_indexer2.cs" />
     <Compile Remove="syn_interface.cs" />
     <Compile Remove="syn_interface_ex.cs" />
@@ -29,6 +34,7 @@
     <Compile Remove="syn_treeGeneric.cs" />
     <Compile Remove="syn_tuple.cs" />
     <Compile Remove="syn_typecasting.cs" />
+    <Compile Remove="syn_var.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -39,10 +45,12 @@
     <None Include="syn_anonyMethod.cs" />
     <None Include="syn_auto_implemented_property.cs" />
     <None Include="syn_closure1.cs" />
+    <None Include="syn_generic1.cs" />
+    <None Include="syn_generic2.cs" />
+    <None Include="syn_generic3.cs" />
     <None Include="syn_Ienumerable.cs" />
     <None Include="syn_Ienumerable2.cs" />
     <None Include="syn_Ienumerable3.cs" />
-    <None Include="syn_indexer.cs" />
     <None Include="syn_indexer2.cs" />
     <None Include="syn_interface.cs" />
     <None Include="syn_interface_ex.cs" />
@@ -55,6 +63,7 @@
     <None Include="syn_treeGeneric.cs" />
     <None Include="syn_tuple.cs" />
     <None Include="syn_typecasting.cs" />
+    <None Include="syn_var.cs" />
   </ItemGroup>
 
 </Project>

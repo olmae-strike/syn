@@ -63,7 +63,8 @@ namespace CsharpSyntax
         static void Main(string[] args)
         {
             Console.WriteLine("Hello C#!");
-
+            //int a;
+            //a = int.Parse(Console.ReadLine());
             IntegerText aInt = new IntegerText(123456);
 
             int step = 1;
@@ -72,7 +73,7 @@ namespace CsharpSyntax
                 Console.WriteLine(step + "의 자리수: " + aInt[i]);
                 step *= 10;
             }
-            aInt[3] = '5';
+            //aInt[3] = '5';
             Console.WriteLine(aInt.ToInt32());
 
 
@@ -80,6 +81,7 @@ namespace CsharpSyntax
 
             Console.WriteLine("모니터 인치: " + normal["인치"] + "\"");
             Console.WriteLine("메모리 크기: " + normal["메모리크기"] + "GB");
+            Console.ReadLine();
         }
     }
 }
